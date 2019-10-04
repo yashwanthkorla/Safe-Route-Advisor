@@ -1,4 +1,4 @@
-# Safe-Route-Advisor
+# Safe Route Advisor
 This project suggests the safe route between start &amp; end destination based on Air Quality Index.
 ![Safe Route Advisor](./Images/Showing_safe_route_to_travel_based_on_aqi.PNG)
 
