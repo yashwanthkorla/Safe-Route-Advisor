@@ -11,5 +11,5 @@ This project suggests the safe route between start &amp; end destination based o
 
 
 ## Work need to be done:
- - Finding an optimistic and accurate method to find the best route instead using the current average mechanism.
+ - Finding an optimized and accurate method to find the best route instead using the current average mechanism.
  - Replacing the existing code with latest javascript features like classes instead of prototyping and other concepts.
